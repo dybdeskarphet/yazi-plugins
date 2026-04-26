@@ -1,6 +1,6 @@
 # rnote.yazi
 
-A plugin for previewing all Rnote files.
+A plugin for previewing Rnote documents (`.rnote`). For now, it renders all pages as a single continuous document.
 
 ## Usage
 
